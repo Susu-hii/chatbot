@@ -1,4 +1,3 @@
-# download LLaMa model: https://huggingface.co/TheBloke/LLaMa-7B-GGML
 import streamlit as st
 from langchain.llms import LlamaCpp
 from langchain.embeddings import LlamaCppEmbeddings
